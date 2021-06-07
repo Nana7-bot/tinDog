@@ -1,0 +1,26 @@
+1. Installing Bootstrap
+    CDN-> Content Delivery Network
+
+2. WireFraming
+    To start drawing you need to draw your design. You can download some sheets from this site https://sneakpeekit.com/
+    Or you can do your design from here https://balsamiq.cloud/spaces
+
+3. Bootstrap Grid Layout
+    So there is 12units in there. You can put your cols in them.
+    Large screen == col-lg
+    Medium screen == col-md
+    Small screen == col-sm
+
+4. Bootstrap Containers
+    Containers come in two forms: one with padding around all over and the fluid, with no padding
+
+
+Intermediate Bootstrap
+    1. Bootstrap Carousel
+
+    2. Bootstrap Cards
+
+    3. CSS-Z index and Starking
+
+    4. Media Query Breakpoint
+        @media <type> <feature>
